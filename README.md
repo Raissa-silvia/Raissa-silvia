@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Raissa Silvia
+# 👩🏻‍💻 Raissa Silva
 
 **`Desenvolvedora back-end`**
 
