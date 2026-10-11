@@ -1,49 +1,101 @@
-<h1 align="center">Olá, eu sou a Raissa Silva 👋</h1>
-<p align="center"><b>Desenvolvedora Back-End em formação</b> · Estudante de Análise e Desenvolvimento de Sistemas</p>
+<h1 >👩🏻‍💻 Raissa Silva</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raissa-correia-4a5830356">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <b>Engenheira de Software  · Desenvolvedora Back-End</b><br/>
+  Análise e Desenvolvimento de Sistemas · C# · .NET · Python · SQL
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raissa-silvia">
+    <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:raissad318@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="raissad318@gmail.com">
+    <img alt="Email" title="Me mande um email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+ 
 </p>
 
 ---
 
-## 💻 Sobre mim
+### 💡 Sobre mim
 
-Estou em transição de carreira para a área de tecnologia e foco no **desenvolvimento back-end**: APIs, regras de negócio e banco de dados. Gosto de entender como as coisas funcionam por trás das aplicações e aprendo construindo projetos práticos.
+Sou **Engenheira de Software em transição de carreira**, com formação em Análise e Desenvolvimento de Sistemas e foco em **desenvolvimento back-end**: construção de aplicações, orientação a objetos e integração com banco de dados.
 
-## 🛠️ Tecnologias
+Desenvolvo projetos práticos em **C#, Python e SQL**, aplicando boas práticas e arquitetura orientada a objetos, sempre buscando entender como as soluções funcionam por dentro.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🌟 Meu diferencial
 
-**Conhecimentos:** Programação Orientada a Objetos · APIs REST · Banco de dados relacional · Lógica de programação · Fundamentos de Engenharia de Software
+Minha experiência na **área administrativa** me trouxe habilidades que levo para o desenvolvimento de software:
 
-## 📌 Projetos
+- 🗂️ **Organização e gestão de processos:** entendo o fluxo de negócio que o sistema precisa atender
+- 🔍 **Atenção aos detalhes:** validações, regras de negócio e qualidade do código
+- 🤝 **Comunicação e colaboração:** facilidade para trabalhar com equipes técnicas e não técnicas
 
-### 🔹 [Gestor de Clientes API](LINK-DO-REPOSITORIO)
-API REST para cadastrar, listar, buscar e inativar clientes, com validação de dados e histórico preservado (clientes inativados não são apagados).
+---
+
+### 🚀 Projeto em destaque
+
+#### 🔹 [Gestor de Clientes API](LINK-DO-REPOSITORIO)
+API REST para gestão de clientes com integração a banco de dados.
+
+- ✅ Cadastro, listagem, busca e inativação de clientes
+- ✅ Validação de nome, e-mail e CPF dentro do domínio
+- ✅ Inativação em vez de exclusão, preservando o histórico
+- ✅ Arquitetura orientada a objetos com injeção de dependência
+
 `C#` `ASP.NET Core` `Entity Framework Core` `SQLite`
 
-### 🔹 NewTech
-Quiz interativo e gamificado para incentivar o aprendizado em tecnologia, desenvolvido no Projeto Integrador Multidisciplinar (PIM) da faculdade.
 
-## 📚 Estudando agora
 
-- ASP.NET Core e construção de APIs
-- Entity Framework Core e modelagem de banco de dados
-- Boas práticas e código limpo
+---
 
-## 🎯 Objetivo
+### 🤖 Linguagens e Tecnologias
 
+#### ⚙️ Back-End
+
+<p align="left">
+  <img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt=".NET" title=".NET / ASP.NET Core" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img alt="SQLite" title="SQLite / SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+</p>
+
+- **C#** com Programação Orientada a Objetos
+- **ASP.NET Core** para construção de APIs REST
+- **Entity Framework Core** para acesso a banco de dados
+- **SQL** e modelagem de banco de dados relacional
+- **Python** e **C** para lógica de programação
+
+#### 🎨 Front-End
+
+<p align="left">
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</p>
+
+- **HTML** e **CSS** para estrutura e estilo de páginas
+
+#### 🧰 Ferramentas
+
+<p align="left">
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="Visual Studio" title="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+</p>
+
+#### 📊 Linguagens mais usadas nos meus repositórios
+
+<p align="left">
+  <img alt="Linguagens mais usadas" height="180" src="https://www.linkedin.com/in/raissa-silvia" />
+</p>
+
+---
+
+### 🎯 Objetivo
+
+Busco oportunidades como **Engenheira de Software** ou **Desenvolvedora Back-End**, contribuindo para soluções de qualidade enquanto continuo ampliando meus conhecimentos em desenvolvimento de aplicações.
+
+💬 **Aberta a conexões e trocas** sobre Engenharia de Software, Back-End, C#, Python e tecnologia. Me chama no LinkedIn!
 Busco minha **primeira oportunidade de estágio em desenvolvimento**, onde eu possa aplicar o que sei, aprender com pessoas experientes e evoluir como desenvolvedora.
 
