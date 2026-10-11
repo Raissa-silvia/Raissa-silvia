@@ -1,7 +1,7 @@
-<h1 >👩🏻‍💻 Raissa Silva</h1>
+<h1 align="center">👩🏻‍💻 Raissa Silva</h1>
 
 <p align="center">
-  <b>Engenheira de Software  · Desenvolvedora Back-End</b><br/>
+  <b>Engenheira de Software · Desenvolvedora Back-End</b><br/>
   Análise e Desenvolvimento de Sistemas · C# · .NET · Python · SQL
 </p>
 
@@ -9,10 +9,9 @@
   <a href="https://www.linkedin.com/in/raissa-silvia">
     <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="raissad318@gmail.com">
+  <a href="mailto:raissad318@gmail.com">
     <img alt="Email" title="Me mande um email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
 </p>
 
 ---
@@ -44,8 +43,6 @@ API REST para gestão de clientes com integração a banco de dados.
 - ✅ Arquitetura orientada a objetos com injeção de dependência
 
 `C#` `ASP.NET Core` `Entity Framework Core` `SQLite`
-
-
 
 ---
 
@@ -84,13 +81,25 @@ API REST para gestão de clientes com integração a banco de dados.
   <img alt="Visual Studio" title="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 </p>
 
-#### 📊 Linguagens mais usadas nos meus repositórios
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-  <img alt="Linguagens mais usadas" height="180" src="https://www.linkedin.com/in/raissa-silvia" />
+  <img alt="Estatísticas do GitHub" height="170" src="https://github-readme-stats.vercel.app/api?username=Raissa-silvia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+</p>
+
+<p align="left">
+  <img alt="Linguagens mais usadas" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-silvia&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" />
 </p>
 
 ---
+
+### 🎯 Objetivo
+
+Busco oportunidades como **Engenheira de Software** ou **Desenvolvedora Back-End**, contribuindo para soluções de qualidade enquanto continuo ampliando meus conhecimentos em desenvolvimento de aplicações.
+
+💬 **Aberta a conexões e trocas** sobre Engenharia de Software, Back-End, C#, Python e tecnologia. Me chama no LinkedIn!
 
 ### 🎯 Objetivo
 
