@@ -34,7 +34,7 @@ Minha experiência na **área administrativa** me trouxe habilidades que levo pa
 
 ### 🚀 Projeto em destaque
 
-#### 🔹 [Gestor de Clientes API](LINK-DO-REPOSITORIO)
+#### 🔹 [[Gestor de Clientes API](LINK-DO-REPOSITORIO](https://github.com/Raissa-silvia/GestorClientesApi))
 API REST para gestão de clientes com integração a banco de dados.
 
 - ✅ Cadastro, listagem, busca e inativação de clientes
