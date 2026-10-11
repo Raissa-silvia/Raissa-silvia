@@ -103,9 +103,3 @@ Busco oportunidades como **Engenheira de Software** ou **Desenvolvedora Back-End
 
 ---
 
-### 🎯 Objetivo
-
-Busco oportunidades como **Engenheira de Software** ou **Desenvolvedora Back-End**, contribuindo para soluções de qualidade enquanto continuo ampliando meus conhecimentos em desenvolvimento de aplicações.
-
-💬 **Aberta a conexões e trocas** sobre Engenharia de Software, Back-End, C#, Python e tecnologia. Me chama no LinkedIn!
-
